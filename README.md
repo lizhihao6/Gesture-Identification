@@ -5,7 +5,7 @@
 
 需部署SH1104的驱动文件，或更改OLED.py至合适驱动  
 
-基础IO调用及I2C读写使用AAdafruit库
+基础IO调用及I2C读写使用Adafruit库
 
 ## 文件说明
 
